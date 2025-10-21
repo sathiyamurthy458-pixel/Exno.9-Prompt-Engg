@@ -32,6 +32,17 @@ Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
 
+<img width="800" height="814" alt="Screenshot 2025-10-22 000749" src="https://github.com/user-attachments/assets/6d53bad1-5303-4412-90f7-976936aae50d" />
+
+
+<img width="818" height="657" alt="Screenshot 2025-10-22 000824" src="https://github.com/user-attachments/assets/6825b0bf-c330-4f55-899b-65a51aee3dda" />
+
+
+<img width="839" height="815" alt="Screenshot 2025-10-22 000810" src="https://github.com/user-attachments/assets/020f6dc6-22d0-424e-a658-b2d2c37f7ddf" />
+
+
+
+
 # Result: The Prompt of the above task executed successfully
 
 
